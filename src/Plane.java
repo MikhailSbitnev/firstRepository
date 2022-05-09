@@ -101,7 +101,7 @@ public class Plane {
                 System.out.println("Заправка в воздухе невозможна");
             }
         } else {
-            System.out.println("Вы разбились  на хер");
+            System.out.println("Вы разбились");
         }
     }
 }
